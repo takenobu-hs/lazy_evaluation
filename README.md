@@ -5,7 +5,7 @@ Lazy evaluation illustrated
 
 This is an illustrated document about lazy evaluation in Haskell
 
-Here is [haskell_lazy_evaluation.pdf]
+Here is [Lazy evaluation illustrated for Haskell divers]
 (http://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf) (PDF).
 
 
@@ -37,6 +37,7 @@ Contents
   - STG-machine
 6. Semantics
   - Bottom
+  - Lifted, Boxed
   - Non-strict Semantics
   - Strict analysis
   - Sequential order
