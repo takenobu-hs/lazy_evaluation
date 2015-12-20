@@ -37,9 +37,9 @@ Contents
   - STG-machine
 6. Semantics
   - Bottom
-  - Non-strict Semantics
+  - Strict/Non-strict
   - Lifted and boxed types
-  - Strict analysis
+  - Strictness analysis
   - Sequential order
 7. Appendix
   - References
