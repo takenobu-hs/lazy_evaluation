@@ -5,8 +5,7 @@ Lazy evaluation illustrated
 
 This is an illustrated document about lazy evaluation in Haskell
 
-Here is: [Lazy evaluation illustrated for Haskell divers]
-(http://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf) (PDF).
+Here is: [Lazy evaluation illustrated for Haskell divers](http://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf) (PDF).
 
 
 Contents
